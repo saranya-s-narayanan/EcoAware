@@ -1,0 +1,126 @@
+{
+  "my_flutter_app": "https://gla-my.sharepoint.com/:u:/g/personal/2827393s_student_gla_ac_uk/EYJmCOMeHvFHp5yQophCp2IB_wP21KRqrqwg_4m8IRsU7Q?e=uCbtGb",
+  "tagline": "Your personal guide in combating climate change!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "home": "Home",
+  "profile": "Profile",
+  "settings": "Settings",
+  "welcome": "Welcome",
+
+  "explore": "Explore",
+  "quiz": "Quiz",
+  "calculator": "Carbon footprint calculator",
+
+  "start": "Start",
+  "publishScore":"Share",
+
+  "exploreText": "View information about carbon footprint in various \nsectors and understand its impact",
+  "exploreText2": "Select a section to know more about the various factors, which impacts carbon footprint on earth",
+  "quizText": "Test your knowledge in sustainability and share \nthe results",
+  "quizText2": "Are you ready to test your knowledge and discover how much you know about sustainable living?\nLet's get started on this journey of environmental enlightenment!",
+  "quizText3": "Welcome to sustainability quiz!\n",
+
+  "calculatorText": "Calculate your contribution to monthly carbon \nfootprint by answering simple questions",
+
+  "quizResultTitle": "Here are some tips for improving your score:\n",
+  "quizResultBp1": "\u2022 Choose sustainable transportation",
+  "quizResultBp2": "• Eat less meat",
+  "quizResultBp3": "• Compost food waste",
+  "quizResultBp4": "• Save water as much as possible",
+  "quizResultBp5": "• Reduce your energy consumption",
+  "textPrompt": "Explore sustainability, test your knowledge, and join the movement for a greener future. \uD83C\uDF31 Install 'EcoAware' now and embark on a journey towards eco-consciousness. \uD83C\uDF3F ",
+  "textPrompt2": "Check out this amazing Footprint Calculator app! \uD83C\uDF31  Install 'EcoAware' now and embark on a journey towards eco-consciousness. Let's take steps together towards a greener future! \uD83C\uDF3F ",
+  "congratsQuiz1": "Congratulations! \nYou scored",
+  "congratsQuiz2": "out of",
+
+  "correctAnswer": "That's correct!",
+  "scoreOne": "** Score: 1 **",
+  "incorrectAnswer": "That's an incorrect answer!",
+  "scoreZero": "** Score: 0 **",
+  "correctanswerIs": "The correct answer is",
+
+
+  "name": "Name",
+  "email": "Email address",
+  "dob": "Birthday",
+  "country": "Country",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "errorText": "This field is required",
+  "passwordErrorText": "Passwords do not match. Please check!",
+  "emailInvalid": "Please enter a valid email address!",
+  "passwordLength": "Password should have atleast 5 characters!",
+
+  "signup": "Sign up",
+  "signin": "Sign in",
+  "register": "Register",
+  "close": "Close",
+  "yes": "Yes",
+  "no": "No",
+
+  "edit": "Edit",
+  "save": "Save",
+  "deleteAccount": "Delete my account",
+  "deleteSuccess": "Account deletion success!",
+  "deleteFail": "Account deletion failed. Please try again later or contact us through the feedback section!",
+
+  "confirmation": "Confirmation",
+  "confirmLogout": "Are you sure you want to logout?",
+  "confirmDeletion": "Are you sure you want to delete the account?",
+
+  "signupSuccess": "Registration success. Please sign in!",
+  "signupFail1": "Registration failed. Try again!",
+  "signupExists": "Email already registered. Please Sign In!",
+  "signinMismatch": "Email and password mismatch. Try again!",
+  "signInFail": "SignIn failed. Please check credentials!",
+  "signInNew": "Email is not registered yet.\nPlease register!",
+  "emailUpdationExists": "Email already registered. Please use another email address!",
+  "updationSuccess": "Updation success!",
+  "updationFail": "Updation failed. Please try again!",
+
+  "signupAlternative": "Don't have an account? Register here!",
+  "loginAlternative": "Forgot password? Sign in with code here!",
+  "loginPasscode": "SignIn with Passcode",
+  "sendCode": "Send code",
+  "enterOTP": "Enter OTP here",
+  "emailSent": "Email with a passcode has been successfully sent!",
+  "emailFail": "Unable to send Email. Please check your internet connection!",
+  "emailExpire": "The passcode will expire in",
+  "emailNew": "Email not registered!",
+  "invalidOTP": "Passcode doesn't match. Please try again!",
+
+  "utilities": "Utilities",
+  "food": "Food",
+  "tech": "Tech",
+  "travel": "Travel",
+  "calculator_result_heading": "Your overall carbon footprint is",
+  "usageTrend": "The footprint trend in recent months is shown below:",
+  "next": "Next",
+
+  "electricity": "Electricity",
+  "heating": "Heating",
+  "motorbike": "Motorbike",
+  "car": "Car",
+  "chicken": "Chicken",
+  "beef": "Beef",
+  "smartphone": "Smartphone",
+  "laptop": "Laptop",
+
+
+
+  "about": "About",
+  "inviteFriend": "Invite a friend",
+  "monthlyAlerts": "Monthly reminder",
+  "sendFeedback": "Send Feedback",
+
+  "aboutText": "EcoAware aims to provide a tool for individuals to keep track of their carbon footprint and learn more about sustainable practices.\n\nThe information presented in the articles, quiz section, and calculation logic has been referenced from various articles and sources. While efforts have been made to ensure accuracy, these values may not be 100% accurate due to the dynamic nature of environmental factors. However, they will provide users with a general idea of their carbon footprint and encourage them to adopt sustainable habits.\n\nWe hope this app contributes to raising awareness about sustainable living and inspires positive changes in our everyday choices to protect the environment for future generations.\n",
+  "invitePrompt": "Explore sustainability, test your knowledge, and join the movement for a greener future. Install 'EcoAware' now and embark on a journey towards eco-consciousness: ",
+  "feedbackMessage": "Type your message here",
+  "send": "Send",
+  "feedbackSendFail": "Unable to send feedback. please try later!",
+  "feedbackSendSuccess": "Thank you for sending feedback!",
+  "feedbackEmpty": "Please enter some message to send!"
+
+}
